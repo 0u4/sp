@@ -11,7 +11,6 @@
                 { "name": "video", "url": "https://www.youtube.com/" },
                 { "name": "anime", "url": "https://animixplay.to/" },
                 { "name": "photos", "url": "http://unsplash.com/" }
-                { "name": "reddit", "url": "https://www.reddit.com/r/unixporn/" }
             ]
         },
         { "name": "programming", "links": [
