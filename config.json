@@ -1,23 +1,23 @@
 {
     "squares": [
         { "name": "my", "links": [
-                { "name": "home", "url": "https://6r7.github.io/" },
-                { "name": "github", "url": "https://github.con/6r7" },
-                { "name": "replit", "url": "https://replit.com/~" },
-                { "name": "unixporn", "url": "https://www.reddit.com/r/unixporn/" }
+                { "name": "--home--", "url": "https://6r7.github.io/" },
+                { "name": "--github--", "url": "https://github.con/6r7" },
+                { "name": "--replit--", "url": "https://replit.com/~" },
+                { "name": "--unixporn--", "url": "https://www.reddit.com/r/unixporn/" }
             ]
         },
         { "name": "media", "links": [
-                { "name": "video", "url": "https://www.youtube.com/" },
-                { "name": "anime", "url": "https://animixplay.io/" },
-                { "name": "photos", "url": "http://unsplash.com/" }
+                { "name": "[[ video ]]", "url": "https://www.youtube.com/" },
+                { "name": "[[ anime ]]", "url": "https://animixplay.to/" },
+                { "name": "[[ photos ]]", "url": "http://unsplash.com/" }
             ]
         },
         { "name": "programming", "links": [
-                { "name": "GitHub", "url": "https://github.com/" },
-                { "name": "stackoverflow", "url": "https://stackoverflow.com/" },
-                { "name": "MDN Web Docs", "url": "https://developer.mozilla.org/bm/" },
-                { "name": "cppreference", "url": "http://en.cppreference.com/w/" }
+                { "name": ">_GitHub_<", "url": "https://github.com/" },
+                { "name": ">_stackoverflow_<", "url": "https://stackoverflow.com/" },
+                { "name": ">_MDN Web Docs_<", "url": "https://developer.mozilla.org/bm/" },
+                { "name": ">_cppreference_<", "url": "http://en.cppreference.com/w/" }
             ]
         },
         { "name": "search", "prefix": "-", "options": [
