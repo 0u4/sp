@@ -1,16 +1,16 @@
 {
     "squares": [
-        { "name": "reddit", "links": [
-                { "name": "SkincareAddiction", "url": "https://www.reddit.com/r/SkincareAddiction/" },
-                { "name": "MakeupAddiction", "url": "https://www.reddit.com/r/MakeupAddiction/" },
-                { "name": "dwarffortress", "url": "https://www.reddit.com/r/dwarffortress/" },
+        { "name": "my", "links": [
+                { "name": "home", "url": "https://6r7.github.io/" },
+                { "name": "github", "url": "https://github.con/6r7" },
+                { "name": "replit", "url": "https://replit.com/~" },
                 { "name": "unixporn", "url": "https://www.reddit.com/r/unixporn/" }
             ]
         },
         { "name": "media", "links": [
-                { "name": "Netflix", "url": "https://www.netflix.com/" },
-                { "name": "goodreads", "url": "https://www.goodreads.com/" },
-                { "name": "imgur", "url": "http://imgur.com/" }
+                { "name": "video", "url": "https://www.youtube.com/" },
+                { "name": "anime", "url": "https://animixplay.io/" },
+                { "name": "photos", "url": "http://unsplash.com/" }
             ]
         },
         { "name": "programming", "links": [
@@ -21,7 +21,7 @@
             ]
         },
         { "name": "search", "prefix": "-", "options": [
-                { "opt": "g", "url": "https://www.google.com/#q=", "space": "+" },
+                { "opt": "g", "url": "https://www.google.com/search?q=", "space": "+" },
                 { "opt": "r", "url": "https://www.reddit.com/search?q=", "space": "+" },
                 { "opt": "a", "url": "https://wiki.archlinux.org/index.php?search=", "space": "+" },
                 { "opt": "w", "url": "https://en.wikipedia.org/w/index.php?search=", "space": "+" },
