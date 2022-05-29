@@ -1,6 +1,6 @@
 <h1>
   <p align="center">
-  a fork from <a href="https://github.com/etacarinaea/startpage/"> here </a>
+  i made firefox startpage without logo branding of firefox , for myself <a href=""> here </a>
 </p>
 </h1>
 
